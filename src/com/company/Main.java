@@ -3,7 +3,8 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        isLeapYear(1981);
+        // main method added for convenience and testing, not needed in that exercise
+        System.out.println(isLeapYear(1981));
     }
 
     public static boolean isLeapYear(int year){
